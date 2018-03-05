@@ -11,4 +11,8 @@ public class I {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public int af() {
+        return -1;
+    }
 }

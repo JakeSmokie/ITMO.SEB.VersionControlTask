@@ -11,4 +11,8 @@ public class B extends I {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
