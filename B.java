@@ -12,6 +12,10 @@ public class B extends I {
         System.out.println(getClass().getName());
     }
 
+    public int ae() {
+        return 9;
+    }
+
     public String kk() {
         return "Yes";
     }
@@ -28,7 +32,11 @@ public class B extends I {
         return 99999;
     }
 
-    public int ae() {
-        return java.lang.Math.abs(-7);
+    public double ee() {
+        return 100.500;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }

@@ -31,4 +31,16 @@ public class F extends I {
     public byte oo() {
         return 1;
     }
+
+    public double ad() {
+        return 11;
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public Object pp() {
+        return this;
+    }
 }

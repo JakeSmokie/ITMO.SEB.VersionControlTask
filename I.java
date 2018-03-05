@@ -35,4 +35,16 @@ public class I extends null {
     public long dd() {
         return 33;
     }
+
+    public String kk() {
+        return "Yes";
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }

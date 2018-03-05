@@ -12,6 +12,10 @@ public class K extends null {
         return new java.util.ArrayList<String>();
     }
 
+    public int cc() {
+        return 42;
+    }
+
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
@@ -24,15 +28,19 @@ public class K extends null {
         return new java.util.Random();
     }
 
-    public int cc() {
-        return 42;
-    }
-
     public java.lang.Class qq() {
         return getClass();
     }
 
     public double ad() {
         return 11.09;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public double ee() {
+        return 500.100;
     }
 }
