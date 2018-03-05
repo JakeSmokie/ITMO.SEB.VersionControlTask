@@ -11,4 +11,8 @@ public class F extends I {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public long ac() {
+        return 333;
+    }
 }
