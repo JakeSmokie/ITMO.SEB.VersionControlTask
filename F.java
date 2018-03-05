@@ -15,4 +15,8 @@ public class F extends I {
     public long ac() {
         return 333;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
