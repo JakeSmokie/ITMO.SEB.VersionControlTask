@@ -27,4 +27,8 @@ public class F extends I {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

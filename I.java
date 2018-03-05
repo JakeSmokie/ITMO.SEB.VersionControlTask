@@ -31,4 +31,8 @@ public class I extends null {
     public float ff() {
         return 0;
     }
+
+    public long dd() {
+        return 33;
+    }
 }

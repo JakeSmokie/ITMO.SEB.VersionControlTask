@@ -31,4 +31,8 @@ public class K extends null {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }
