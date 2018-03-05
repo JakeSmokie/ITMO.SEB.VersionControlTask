@@ -43,4 +43,8 @@ public class B extends I {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public byte oo() {
+        return 2;
+    }
 }

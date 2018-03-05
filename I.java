@@ -51,4 +51,8 @@ public class I extends null {
     public long ac() {
         return 222;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

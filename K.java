@@ -47,4 +47,8 @@ public class K extends null {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
