@@ -1,4 +1,4 @@
-public class K {
+public class K extends null {
 
     private long b = 1234;
 
@@ -14,5 +14,17 @@ public class K {
 
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public int cc() {
+        return 42;
     }
 }

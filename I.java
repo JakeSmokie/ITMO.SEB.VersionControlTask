@@ -1,4 +1,4 @@
-public class I {
+public class I extends null {
 
     private int j = 1;
 
@@ -14,5 +14,17 @@ public class I {
 
     public int af() {
         return -1;
+    }
+
+    public double ee() {
+        return java.lang.Math.PI;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 }

@@ -15,4 +15,12 @@ public class B extends I {
     public String kk() {
         return "Yes";
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public void ab() {
+        return;
+    }
 }
