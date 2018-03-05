@@ -19,4 +19,8 @@ public class B extends I {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public int ae() {
+        return 9;
+    }
 }
