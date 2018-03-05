@@ -19,4 +19,8 @@ public class I {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

@@ -19,4 +19,8 @@ public class K {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }
