@@ -47,4 +47,8 @@ public class I extends null {
     public void ab() {
         System.out.println("\n");
     }
+
+    public long ac() {
+        return 222;
+    }
 }

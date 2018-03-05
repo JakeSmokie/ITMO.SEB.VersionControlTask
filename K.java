@@ -43,4 +43,8 @@ public class K extends null {
     public double ee() {
         return 500.100;
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

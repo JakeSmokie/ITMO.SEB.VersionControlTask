@@ -43,4 +43,8 @@ public class F extends I {
     public Object pp() {
         return this;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
