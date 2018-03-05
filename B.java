@@ -23,4 +23,8 @@ public class B extends I {
     public void ab() {
         return;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

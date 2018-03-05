@@ -27,4 +27,8 @@ public class K extends null {
     public int cc() {
         return 42;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

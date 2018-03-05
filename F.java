@@ -23,4 +23,8 @@ public class F extends I {
     public String kk() {
         return "Yes";
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

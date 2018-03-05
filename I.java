@@ -27,4 +27,8 @@ public class I extends null {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public float ff() {
+        return 0;
+    }
 }
