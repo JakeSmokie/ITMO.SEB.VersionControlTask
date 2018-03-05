@@ -11,4 +11,8 @@ public class K {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
